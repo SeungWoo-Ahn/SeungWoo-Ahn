@@ -26,7 +26,7 @@
 
 <details>
   <summary> 
-    &nbsp;<a href="https://bingxinfo.com">BingX</a> &nbsp;:&nbsp; 가상화폐거래소 랜딩페이지 &nbsp; | &nbsp; 기획, 프론트엔드 개발 담당 &nbsp; | &nbsp;  2023.01 ~ 2023.02
+    &nbsp;BingX &nbsp;:&nbsp; 가상화폐거래소 랜딩페이지 &nbsp; | &nbsp; 기획, 프론트엔드 개발 담당 &nbsp; | &nbsp;  2023.01 ~ 2023.02
   </summary>
   </br>
   <p align="center">
