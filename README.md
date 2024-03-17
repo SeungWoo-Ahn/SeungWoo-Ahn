@@ -4,7 +4,7 @@
 
 <details>
   <summary> 
-    &nbsp;<a href="https://play.google.com/store/apps/details?id=com.golagola.worldcup">골라부러</a> &nbsp;:&nbsp; 2022 이상형 월드컵 &nbsp; | &nbsp; 기획, 안드로이드 개발, 배포 담당 &nbsp; | &nbsp;  2022.07 ~ 2022.08 &nbsp; <sub>UGC정책으로 삭제. 수정예정</sub>
+    &nbsp;<a href="https://play.google.com/store/apps/details?id=com.golagola.worldcup">골라부러</a> &nbsp;:&nbsp; 2022 이상형 월드컵 &nbsp; | &nbsp; 기획, 안드로이드 개발, 배포 담당 &nbsp; | &nbsp;  2022.07 ~ 2022.08 &nbsp;
   </summary>
   </br>
   <p align="center">
