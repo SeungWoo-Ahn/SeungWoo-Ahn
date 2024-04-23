@@ -6,7 +6,7 @@
   </summary>
   </br>
   <p align="center">
-    <img src="https://github.com/SeungWoo-Ahn/SeungWoo-Ahn/assets/78468001/3593a11f-72f6-423c-b13e-25bc53494ab2.jpg" height = "400"/>
+    <img src="https://github.com/SeungWoo-Ahn/SeungWoo-Ahn/assets/78468001/3593a11f-72f6-423c-b13e-25bc53494ab2.jpg" height = "360"/>
   </p>
   
   <br/>
@@ -27,7 +27,7 @@
   </summary>
   </br>
   <p align="center">
-    <img src="https://github.com/SeungWoo-Ahn/SeungWoo-Ahn/assets/78468001/4d54a5f0-cbf2-480e-bf3c-8d232a0f8eca.jpg" height = "400"/>
+    <img src="https://github.com/SeungWoo-Ahn/SeungWoo-Ahn/assets/78468001/4d54a5f0-cbf2-480e-bf3c-8d232a0f8eca.jpg" height = "360"/>
   </p>
   
   <br/>
