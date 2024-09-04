@@ -2,7 +2,7 @@
 
 <details>
   <summary> 
-    &nbsp;<a href="https://play.google.com/store/apps/details?id=io.tuttut.android" target="_blank">텃텃</a> &nbsp;:&nbsp; 함께하는 즐거운 텃밭 생활 &nbsp; | &nbsp; 기획, 안드로이드 개발, 배포 담당 &nbsp; | &nbsp;  2024.03 ~ &nbsp;
+    &nbsp;<a href="https://github.com/SeungWoo-Ahn/TutTut" target="_blank">텃텃</a> &nbsp;:&nbsp; 함께하는 즐거운 텃밭 생활 &nbsp; | &nbsp; 기획, 안드로이드 개발, 배포 담당 &nbsp; | &nbsp;  2024.03 ~ &nbsp;
   </summary>
   </br>
   <p align="center">
@@ -23,7 +23,7 @@
 
 <details>
   <summary> 
-    &nbsp;마포미 &nbsp;:&nbsp; 나와 함께하는 동행 &nbsp; | &nbsp; 안드로이드 개발 담당 &nbsp; | &nbsp;  2023.05 ~ 2023.06
+    &nbsp;<a href="https://github.com/SeungWoo-Ahn/Mapomi-android" target="_blank">마포미</a> &nbsp;:&nbsp; 나와 함께하는 동행 &nbsp; | &nbsp; 안드로이드 개발 담당 &nbsp; | &nbsp;  2023.05 ~ 2023.06
   </summary>
   </br>
   <p align="center">
@@ -44,7 +44,7 @@
 
 <details>
   <summary> 
-    &nbsp;<a href="https://play.google.com/store/apps/details?id=io.sinzak.android" target="_blank">신작</a> &nbsp;:&nbsp; 신세대의 작품을 만나다 &nbsp; | &nbsp; 안드로이드 개발, 배포 담당 &nbsp; | &nbsp;  2022.12 ~ 2023.03
+    &nbsp;<a href="https://github.com/SINZAK/sinzak-android" target="_blank">신작</a> &nbsp;:&nbsp; 신세대의 작품을 만나다 &nbsp; | &nbsp; 안드로이드 개발, 배포 담당 &nbsp; | &nbsp;  2022.12 ~ 2023.03
   </summary>
   </br>
   <p align="center">
