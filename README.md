@@ -2,6 +2,27 @@
 
 <details>
   <summary> 
+    &nbsp;<a href="https://github.com/SeungWoo-Ahn/IEUM">이음</a> &nbsp;:&nbsp; 암환자 치유 커뮤니티 &nbsp; | &nbsp; 팀 프로젝트, Android 개발 담당 &nbsp; | &nbsp;  2025.08 ~ 2026.03
+  </summary>
+  </br>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/213f0de6-c419-4982-84c9-5a2038380af4" height = "360"/>
+    <img src="https://github.com/user-attachments/assets/f7797918-acd9-4acd-ad61-d685f3426a3a" height = "360"/>
+  </p>
+  <br/>
+  
+  ```
+  암환자 치유 커뮤니티 서비스
+  기획 / Android 앱 개발 / 배포
+  Android (Kotlin) / Jetpack Compose / Ktor / Paging3 / Room
+  ```
+
+  <br/>
+  
+</details>
+
+<details>
+  <summary> 
     &nbsp;<a href="https://github.com/SeungWoo-Ahn/ExhibitionDoT-Android">전시회닷</a> &nbsp;:&nbsp; 세상의 전시를 잇다 &nbsp; | &nbsp; 팀 프로젝트, Android 개발 담당 &nbsp; | &nbsp;  2024.10 ~ 2025.02
   </summary>
   </br>
